@@ -27,5 +27,11 @@
     <ClCompile Include="quick_11004.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="merge_2751.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="merge2_1517.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
