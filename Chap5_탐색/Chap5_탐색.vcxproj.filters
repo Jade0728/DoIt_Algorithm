@@ -30,5 +30,8 @@
     <ClCompile Include="BFS_2178.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="이진_1920.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
