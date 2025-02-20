@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap5_탐색", "Chap5_탐�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap6_그리디", "Chap6_그리디\Chap6_그리디.vcxproj", "{010F2EA3-70D7-404B-A44B-F66B5C0E54BD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap7_정수론", "Chap7_정수론\Chap7_정수론.vcxproj", "{92260871-D184-4F33-AC3B-07CF9B5BED91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{010F2EA3-70D7-404B-A44B-F66B5C0E54BD}.Release|x64.Build.0 = Release|x64
 		{010F2EA3-70D7-404B-A44B-F66B5C0E54BD}.Release|x86.ActiveCfg = Release|Win32
 		{010F2EA3-70D7-404B-A44B-F66B5C0E54BD}.Release|x86.Build.0 = Release|Win32
+		{92260871-D184-4F33-AC3B-07CF9B5BED91}.Debug|x64.ActiveCfg = Debug|x64
+		{92260871-D184-4F33-AC3B-07CF9B5BED91}.Debug|x64.Build.0 = Debug|x64
+		{92260871-D184-4F33-AC3B-07CF9B5BED91}.Debug|x86.ActiveCfg = Debug|Win32
+		{92260871-D184-4F33-AC3B-07CF9B5BED91}.Debug|x86.Build.0 = Debug|Win32
+		{92260871-D184-4F33-AC3B-07CF9B5BED91}.Release|x64.ActiveCfg = Release|x64
+		{92260871-D184-4F33-AC3B-07CF9B5BED91}.Release|x64.Build.0 = Release|x64
+		{92260871-D184-4F33-AC3B-07CF9B5BED91}.Release|x86.ActiveCfg = Release|Win32
+		{92260871-D184-4F33-AC3B-07CF9B5BED91}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
