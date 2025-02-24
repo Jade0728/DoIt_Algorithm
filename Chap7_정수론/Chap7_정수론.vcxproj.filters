@@ -18,5 +18,8 @@
     <ClCompile Include="소수_1929.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="거의소수_1456.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
