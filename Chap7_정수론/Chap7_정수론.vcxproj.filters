@@ -21,5 +21,8 @@
     <ClCompile Include="거의소수_1456.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="소수&amp;팰린드롬_1747.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
